@@ -10,6 +10,7 @@ school\sptech\projetotophair\service\AvaliacaoService.class
 school\sptech\projetotophair\domain\empresa\Empresa.class
 school\sptech\projetotophair\api\controller\ArquivoController.class
 school\sptech\projetotophair\service\dto\servico\ServicoEnderecoDto.class
+school\sptech\projetotophair\api\configuration\security\doc\SwaggerConfig.class
 school\sptech\projetotophair\api\controller\HistoricoServicoController.class
 school\sptech\projetotophair\service\dto\agendaservico\mapper\AgendaServicoMapper.class
 school\sptech\projetotophair\service\dto\usuario\UsuarioEnderecoVinculadoDto.class
@@ -82,6 +83,5 @@ school\sptech\projetotophair\service\ArquivoService.class
 school\sptech\projetotophair\service\dto\agenda\mapper\AgendaMapper.class
 school\sptech\projetotophair\service\dto\servico\ServicoDto.class
 school\sptech\projetotophair\service\integraveis\importacao\Importacao.class
-school\sptech\projetotophair\api\configuration\doc\SwaggerConfig.class
 school\sptech\projetotophair\api\configuration\security\AutenticacaoProvider.class
 school\sptech\projetotophair\service\integraveis\pilha\PilhaObj.class

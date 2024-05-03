@@ -5,6 +5,7 @@ C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\spt
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\service\integraveis\importacao\Importacao.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\service\dto\empresa\mapper\EmpresaMapper.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\domain\empresa\Empresa.java
+C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\api\configuration\security\doc\SwaggerConfig.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\service\autenticacao\dto\UsuarioDetalhesDto.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\service\dto\avaliacao\AvaliacaoResponseDto.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\service\dto\servico\mapper\ServicoMapper.java
@@ -59,7 +60,6 @@ C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\spt
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\domain\agenda\repository\AgendaRepository.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\domain\historicoservico\HistoricoServico.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\domain\empresa\repository\EmpresaRepository.java
-C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\api\configuration\doc\SwaggerConfig.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\domain\agendaservico\AgendaServico.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\service\dto\endereco\mapper\EnderecoMapper.java
 C:\Users\User\Documents\sptech_semestre_4\pi\BE_userAPI\src\main\java\school\sptech\projetotophair\api\controller\UsuarioController.java
