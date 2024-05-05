@@ -1,4 +1,5 @@
 school\sptech\projetotophair\domain\avaliacao\repository\AvaliacaoRepository.class
+school\sptech\projetotophair\service\dto\arquivo\ArquivoUsuarioVinculadoDto.class
 school\sptech\projetotophair\service\EnderecoService.class
 school\sptech\projetotophair\service\dto\usuario\mapper\UsuarioMapper.class
 school\sptech\projetotophair\service\HistoricoServicoService.class
@@ -9,11 +10,13 @@ school\sptech\projetotophair\service\dto\empresa\EmpresaPorEstadoDto.class
 school\sptech\projetotophair\service\AvaliacaoService.class
 school\sptech\projetotophair\domain\empresa\Empresa.class
 school\sptech\projetotophair\api\controller\ArquivoController.class
+school\sptech\projetotophair\service\dto\agenda\AgendaEmpresaDto.class
 school\sptech\projetotophair\service\dto\servico\ServicoEnderecoDto.class
 school\sptech\projetotophair\api\configuration\security\doc\SwaggerConfig.class
 school\sptech\projetotophair\api\controller\HistoricoServicoController.class
 school\sptech\projetotophair\service\dto\agendaservico\mapper\AgendaServicoMapper.class
 school\sptech\projetotophair\service\dto\usuario\UsuarioEnderecoVinculadoDto.class
+school\sptech\projetotophair\service\dto\usuario\UsuarioDto.class
 school\sptech\projetotophair\domain\agendaservico\repository\AgendaServicoRepository.class
 school\sptech\projetotophair\service\dto\avaliacao\AvaliacaoResponseDto.class
 school\sptech\projetotophair\service\dto\usuario\UsuarioCriacaoDto.class
@@ -62,6 +65,7 @@ school\sptech\projetotophair\service\dto\agendaservico\AgendaServicoDto.class
 school\sptech\projetotophair\service\dto\empresa\EmpresaDto.class
 school\sptech\projetotophair\api\controller\UsuarioController.class
 school\sptech\projetotophair\api\controller\AgendaServicoController.class
+school\sptech\projetotophair\domain\empresa\MetricaEmpresa.class
 school\sptech\projetotophair\api\controller\MapBoxController.class
 school\sptech\projetotophair\domain\agenda\repository\AgendaRepository.class
 school\sptech\projetotophair\domain\endereco\repository\EnderecoRepository.class
